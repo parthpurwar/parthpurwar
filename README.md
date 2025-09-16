@@ -3,7 +3,7 @@
 I'm a third-year Electronics Engineering student at **IIT-BHU, Varanasi**, with a passion for coding and AI. 
 
 - 🔭 I’m currently working on sharpening my backend development skills with **AI**, **Backend in Python** and **Frontend in React**.
-- 👯 I’m looking to collaborate on **open-source projects** related to web development.
+- 👯 I’m looking to collaborate on **open-source projects** related to software development.
 - 💬 Ask me about **Data Structures, Algorithms, and Full-Stack Development**.
 - ⚡ I've solved over **500 problems** on platforms like LeetCode and Codeforces!
 - 🧠 Cracked IIT with 99.7 percentile with rank of 3633
